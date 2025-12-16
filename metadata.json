@@ -1,0 +1,5 @@
+{
+  "name": "Py3D Studio",
+  "description": "A browser-based 3D modeling environment where users generate 3D scenes using Python code, preview them in real-time, and export to GLB format.",
+  "requestFramePermissions": []
+}
